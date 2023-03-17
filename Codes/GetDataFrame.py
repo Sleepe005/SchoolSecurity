@@ -11,10 +11,11 @@ while True:
     data = []
     for i in range(3):
         data.append(str(ser.readline(), 'UTF-8')[:-2:])
-    data.append(0) # Есть пожар - 1; Нет пожара - 0
+    data.append(1) # Есть пожар - 1; Нет пожара - 0
 
     df.loc[ len(df.index)] = data
-    df.to_csv(r'DataFrame.csv', index= False)
+    df.to_csv(r'DataYesFire.csv', index= False)
+    print(data)
 
 
     
