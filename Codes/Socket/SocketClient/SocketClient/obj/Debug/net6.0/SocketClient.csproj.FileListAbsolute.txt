@@ -1,0 +1,15 @@
+D:\Programming\VS\Socket\SocketClient\SocketClient\obj\Debug\net6.0\SocketClient.csproj.AssemblyReference.cache
+D:\Programming\VS\Socket\SocketClient\SocketClient\obj\Debug\net6.0\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\VS\Socket\SocketClient\SocketClient\obj\Debug\net6.0\SocketClient.AssemblyInfoInputs.cache
+D:\Programming\VS\Socket\SocketClient\SocketClient\obj\Debug\net6.0\SocketClient.AssemblyInfo.cs
+D:\Programming\VS\Socket\SocketClient\SocketClient\obj\Debug\net6.0\SocketClient.csproj.CoreCompileInputs.cache
+D:\Programming\VS\Socket\SocketClient\SocketClient\bin\Debug\net6.0\SocketClient.exe
+D:\Programming\VS\Socket\SocketClient\SocketClient\bin\Debug\net6.0\SocketClient.deps.json
+D:\Programming\VS\Socket\SocketClient\SocketClient\bin\Debug\net6.0\SocketClient.runtimeconfig.json
+D:\Programming\VS\Socket\SocketClient\SocketClient\bin\Debug\net6.0\SocketClient.dll
+D:\Programming\VS\Socket\SocketClient\SocketClient\bin\Debug\net6.0\SocketClient.pdb
+D:\Programming\VS\Socket\SocketClient\SocketClient\obj\Debug\net6.0\SocketClient.dll
+D:\Programming\VS\Socket\SocketClient\SocketClient\obj\Debug\net6.0\refint\SocketClient.dll
+D:\Programming\VS\Socket\SocketClient\SocketClient\obj\Debug\net6.0\SocketClient.pdb
+D:\Programming\VS\Socket\SocketClient\SocketClient\obj\Debug\net6.0\SocketClient.genruntimeconfig.cache
+D:\Programming\VS\Socket\SocketClient\SocketClient\obj\Debug\net6.0\ref\SocketClient.dll
