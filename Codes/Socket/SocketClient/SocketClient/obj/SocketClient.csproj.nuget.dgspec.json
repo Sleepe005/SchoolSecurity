@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\VS\\Socket\\SocketClient\\SocketClient\\SocketClient.csproj": {}
+    "D:\\Programming\\SchoolSecurity\\Codes\\Socket\\SocketClient\\SocketClient\\SocketClient.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\VS\\Socket\\SocketClient\\SocketClient\\SocketClient.csproj": {
+    "D:\\Programming\\SchoolSecurity\\Codes\\Socket\\SocketClient\\SocketClient\\SocketClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\VS\\Socket\\SocketClient\\SocketClient\\SocketClient.csproj",
+        "projectUniqueName": "D:\\Programming\\SchoolSecurity\\Codes\\Socket\\SocketClient\\SocketClient\\SocketClient.csproj",
         "projectName": "SocketClient",
-        "projectPath": "D:\\Programming\\VS\\Socket\\SocketClient\\SocketClient\\SocketClient.csproj",
+        "projectPath": "D:\\Programming\\SchoolSecurity\\Codes\\Socket\\SocketClient\\SocketClient\\SocketClient.csproj",
         "packagesPath": "C:\\Users\\kholo\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\VS\\Socket\\SocketClient\\SocketClient\\obj\\",
+        "outputPath": "D:\\Programming\\SchoolSecurity\\Codes\\Socket\\SocketClient\\SocketClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kholo\\AppData\\Roaming\\NuGet\\NuGet.Config",

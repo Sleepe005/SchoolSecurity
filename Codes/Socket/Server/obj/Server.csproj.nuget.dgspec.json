@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\VS\\Socket\\Server\\Server.csproj": {}
+    "D:\\Programming\\SchoolSecurity\\Codes\\Socket\\Server\\Server.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\VS\\Socket\\Server\\Server.csproj": {
+    "D:\\Programming\\SchoolSecurity\\Codes\\Socket\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\VS\\Socket\\Server\\Server.csproj",
+        "projectUniqueName": "D:\\Programming\\SchoolSecurity\\Codes\\Socket\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "D:\\Programming\\VS\\Socket\\Server\\Server.csproj",
+        "projectPath": "D:\\Programming\\SchoolSecurity\\Codes\\Socket\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\kholo\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\VS\\Socket\\Server\\obj\\",
+        "outputPath": "D:\\Programming\\SchoolSecurity\\Codes\\Socket\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kholo\\AppData\\Roaming\\NuGet\\NuGet.Config",
